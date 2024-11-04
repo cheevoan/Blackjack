@@ -1,0 +1,26 @@
+
+word_list = [
+    'abruptly', 'absurd', 'abyss', 'affix', 'askew',
+    'bagpipes', 'bandwagon', 'banjo', 'beekeeper', 'blizzard',
+    'cobweb', 'croquet', 'cycle', 'dizzying', 'duplex',
+    'embezzle', 'equip', 'exodus', 'fjord', 'funny',
+    'galaxy', 'gizmo', 'gossip', 'haiku', 'jigsaw',
+    'juicy', 'kayak', 'kiosk', 'lymph', 'marquis',
+    'mystify', 'onyx', 'oxygen', 'peekaboo', 'quartz',
+    'queue', 'quiz', 'razzmatazz', 'rhubarb', 'snazzy',
+    'strengths', 'subway', 'transplant', 'vaporize', 'whiskey',
+    'wizard', 'yummy', 'zipper', 'zombie',
+    'ambiguous', 'blasphemy', 'cynical', 'defenestrate', 'ephemeral',
+    'frenzy', 'gargantuan', 'hypothetical', 'idiosyncratic', 'jubilant',
+    'kaleidoscope', 'luminary', 'meticulous', 'nostalgia', 'opulent',
+    'quintessential', 'resilient', 'serendipity', 'tranquility', 'ubiquitous',
+    'vicarious', 'whimsical', 'xenophobia', 'yearning', 'zealous',
+    'acquiesce', 'benevolent', 'camaraderie', 'diligent', 'effervescent',
+    'flabbergasted', 'gracious', 'haphazard', 'intrepid', 'juxtapose',
+    'kinetic', 'lucid', 'metamorphosis', 'nuance', 'oblivion',
+    'perseverance', 'quagmire', 'resilience', 'sophisticated', 'tenacious',
+    'unconventional', 'vulnerable', 'whimsical', 'xylophone', 'yesteryear',
+    'zephyr', 'apocalypse', 'breathtaking', 'catastrophe', 'dichotomy',
+    'epiphany', 'fortitude', 'germinate', 'harbinger', 'iconic',
+    'jubilant', 'kinship', 'labyrinth', 'melancholy', 'nostalgic'
+]
